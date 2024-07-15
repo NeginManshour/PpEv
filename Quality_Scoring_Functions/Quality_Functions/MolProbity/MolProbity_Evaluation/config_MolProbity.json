@@ -1,0 +1,14 @@
+{
+    "AlphaFold3_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/MolProbity/Data/All_Data/AF3",
+    "AlphaFold_TB_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/MolProbity/Data/All_Data/molprobity_TB",
+    "AlphaFold_TF_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/MolProbity/Data/All_Data/molprobity_TF",
+    "ColabFold_TB_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/MolProbity/Data/All_Data/Colab_Mol_TB",
+    "ColabFold_TF_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/MolProbity/Data/All_Data/Colab_Mol_TF",
+    "Molprobity_First_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/MolProbity/Data/Molprobity_First",
+    "Loss_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TB_Loss",
+    "Loss_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TF_Loss",
+    "Spearman_Correlation_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TB_Spearman",
+    "Spearman_Correlation_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TF_Spearman",
+    "Main_Figures_directory": "/Users/neginmanshour/Desktop/PpEv/Figures/Main",
+    "Supp_Figures_directory": "/Users/neginmanshour/Desktop/PpEv/Figures/Supplementary"
+}
