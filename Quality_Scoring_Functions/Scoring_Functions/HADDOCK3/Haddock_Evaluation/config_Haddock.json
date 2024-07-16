@@ -1,0 +1,11 @@
+{
+    "Haddock_em_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Scoring_Functions/HADDOCK3/Data/haddock_em_TF",
+    "Haddock_md_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Scoring_Functions/HADDOCK3/Data/haddock_md_TF",
+    "output_directories": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Scoring_Functions/HADDOCK3/Data",
+    "TF_uni": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/AlphaFold_Multimer_All_TF",
+    "TB_uni": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/AlphaFold_Multimer_All_TB",
+    "DockQ_Loss_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TB_Loss",
+    "DockQ_Loss_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TF_Loss",
+    "Spearman_Correlation_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TB_Spearman",
+    "Spearman_Correlation_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TF_Spearman"
+}
