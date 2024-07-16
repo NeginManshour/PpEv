@@ -1,0 +1,10 @@
+{
+    "source_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Scoring_Functions/AutoDock_Vina/Data/Vina_TF",
+    "output_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Scoring_Functions/AutoDock_Vina/Data",
+    "TF_uni": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/AlphaFold_Multimer_All_TF",
+    "TB_uni": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/AlphaFold_Multimer_All_TB",
+    "DockQ_Loss_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TB_Loss",
+    "DockQ_Loss_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TF_Loss",
+    "Spearman_Correlation_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TB_Spearman",
+    "Spearman_Correlation_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TF_Spearman"
+}
