@@ -1,0 +1,9 @@
+{
+    "AlphaFold_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/AlphaFold_Multimer_All_TF",
+    "DockQ_Loss_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TB_Loss",
+    "DockQ_Loss_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TF_Loss",
+    "Spearman_Correlation_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TB_Spearman",
+    "Spearman_Correlation_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TF_Spearman",
+    "Main_Figures_directory": "/Users/neginmanshour/Desktop/PpEv/Figures/Main",
+    "Supp_Figures_directory": "/Users/neginmanshour/Desktop/PpEv/Figures/Supplementary"
+}
