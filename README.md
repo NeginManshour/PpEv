@@ -1,11 +1,16 @@
 # Comprehensive Evaluation of AlphaFold-Multimer, AlphaFold3 and ColabFold, and Applicable Scoring Functions in Predicting Protein-Peptide Complex Structures
 
+## Abstract
+This project focuses on evaluating three state-of-the-art tools—AlphaFold-Multimer, ColabFold, and AlphaFold3—for predicting protein-peptide complex structures using Template-Based (TB) and Template-Free (TF) methods. AlphaFold-Multimer excels in TB predictions, while AlphaFold3 produces superior protein-like structures. ColabFold shows versatility in both settings. The study also assesses various scoring functions, revealing that while AlphaFold's built-in scoring is the best, combining multiple scoring functions can enhance the accuracy of predictions. The findings highlight the potential for improving protein-peptide docking predictions by leveraging these tools and scoring strategies.
+
+![Fig_1](https://github.com/user-attachments/assets/d4c2abe9-952d-41fd-a384-9ba6a355e842)
+
 ## Running the Code
 
 ### Cleaning Data
 Before evaluating the predicted structures, it is important to clean the PDB files (i.e. remove unnecessary lines, fix residue numbering, etc.). 
 
-First, clean the native PDB structure by running `Data_Evaluation/DockQ/DockQ_Preparing/clean_native.py` using the following command:
+First, clean the native PDB structure by running `/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/DockQ_Preparing/clean_native.py` using the following command:
 ```commandline
 python clean_native.py path/to/pdb chain_id1 chain_id2
 ```
