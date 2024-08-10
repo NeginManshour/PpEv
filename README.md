@@ -54,5 +54,5 @@ The datasets used for this project can be accessed from the following links:
 - [AlphaFold-Multimer, Template-based Dataset(AFM-TB)](https://drive.google.com/file/d/1p2cHTfgjrTj1wHCPjcFqs-7zPzNysxZq/view?usp=drive_link)
 - [AlphaFold-Multimer, Template-free Dataset(AFM-TF)](https://drive.google.com/file/d/1ATmbF25mEcMMFyEGb02PRFv-aPLl8H63/view?usp=drive_link)
 - [ColabFold, Template-Based Dataset(CF-TB)](https://drive.google.com/file/d/1tCRil26Ggz8YIaRq3LCk-OFHdJhw-PVM/view?usp=drive_link)
-- [ColabFold, Template-Free Dataset(CF-TF)] (https://drive.google.com/file/d/1GUYmu-BZ9bWJzK_yGUgNn_miAd128kDA/view?usp=drive_link)
-- [AlphaFold3 Dataset(AF3)] (https://drive.google.com/file/d/1eESMSK3aLyFf7y5JbI_eYO29j7xAkVdP/view?usp=drive_link)
+- [ColabFold, Template-Free Dataset(CF-TF)](https://drive.google.com/file/d/1GUYmu-BZ9bWJzK_yGUgNn_miAd128kDA/view?usp=drive_link)
+- [AlphaFold3 Dataset(AF3)](https://drive.google.com/file/d/1eESMSK3aLyFf7y5JbI_eYO29j7xAkVdP/view?usp=drive_link)
