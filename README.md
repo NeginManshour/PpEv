@@ -10,8 +10,9 @@ This project focuses on evaluating three state-of-the-art tools—AlphaFold-Mult
 ### installation
 To preprocess the predicted structures, the environment below should be installed.
 ```commandline
-conda env create -f environment.yaml
+conda env create -f evaluation.yaml
 ```
+Each qualifying and scoring function has its corresponding environment, which is provided in its respective directory.
 
 ### Cleaning Data
 Before evaluating the predicted structures, it is important to clean the PDB files (i.e. remove unnecessary lines, fix residue numbering, etc.). 
