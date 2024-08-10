@@ -5,12 +5,12 @@ This project focuses on evaluating three state-of-the-art tools—AlphaFold-Mult
 
 ![Fig_1](https://github.com/user-attachments/assets/d4c2abe9-952d-41fd-a384-9ba6a355e842)
 
-## Running the Code
+## Preparing the Predicted Structures for Evaluation Process
 
 ### Cleaning Data
 Before evaluating the predicted structures, it is important to clean the PDB files (i.e. remove unnecessary lines, fix residue numbering, etc.). 
 
-First, clean the native PDB structure by running `/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/DockQ_Preparing/clean_native.py` using the following command:
+First, clean the native PDB structure by running `Quality_Scoring_Functions/Quality_Functions/DockQ/DockQ_Preparing/clean_native.py` using the following command:
 ```commandline
 python clean_native.py path/to/pdb chain_id1 chain_id2
 ```
@@ -29,7 +29,7 @@ The cleaned PDB files will be located in a directory called `cleaned_{original d
 
 Install DockQ v2.1.1 from this GitHub repository: https://github.com/bjornwallner/DockQ.
 
-Run `Data_Evaluation/DockQ/DockQ_Preparing/run_dockq_bulk.py` using the following command:
+Run `Quality_Scoring_Functions/Quality_Functions/DockQ/DockQ_Preparing/run_dockq_bulk.py` using the following command:
 
 ```commandline
 python run_dockq_bulk.py {pdb_dir} {native_pdb}
