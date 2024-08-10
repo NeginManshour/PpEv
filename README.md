@@ -49,7 +49,7 @@ Optional arguments:
 - `-clean`: Clean the PDB files by running `fix_numbering.pl` and `clean_data.py` before running DockQ
 
 ## Datasets
-The datasets used for this project can be accessed from the following links:
+The cleaned datasets used for this project can be accessed from the following links:
 
 - [AlphaFold-Multimer, Template-based Dataset(AFM-TB)](https://drive.google.com/file/d/1p2cHTfgjrTj1wHCPjcFqs-7zPzNysxZq/view?usp=drive_link)
 - [AlphaFold-Multimer, Template-free Dataset(AFM-TF)](https://drive.google.com/file/d/1ATmbF25mEcMMFyEGb02PRFv-aPLl8H63/view?usp=drive_link)
