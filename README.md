@@ -1,14 +1,14 @@
-# Comprehensive Evaluation of AlphaFold-Multimer, AlphaFold3 and ColabFold, and Applicable Scoring Functions in Predicting Protein-Peptide Complex Structures
+# Comprehensive Evaluation of AlphaFold-Multimer, AlphaFold3 and ColabFold, and Scoring Functions in Predicting Protein-Peptide Complex Structures
 
 ## Abstract
 This project focuses on evaluating three state-of-the-art tools—AlphaFold-Multimer, ColabFold, and AlphaFold3—for predicting protein-peptide complex structures using Template-Based (TB) and Template-Free (TF) methods. AlphaFold-Multimer excels in TB predictions, while AlphaFold3 produces superior protein-like structures. ColabFold shows versatility in both settings. The study also assesses various scoring functions, revealing that while AlphaFold's built-in scoring is the best, combining multiple scoring functions can enhance the accuracy of predictions. The findings highlight the potential for improving protein-peptide docking predictions by leveraging these tools and scoring strategies.
 
 ![Fig_1](https://github.com/user-attachments/assets/d4c2abe9-952d-41fd-a384-9ba6a355e842)
 
-## Preparing the Predicted Structures for Evaluation Process
+## Preparing the Predicted Structures for the Evaluation Process
 
 ### installation
-To preprocess the predicted structures, the environment below should be installed.
+To preprocess the predicted structures, the environment below should be installed:
 ```commandline
 conda env create -f evaluation.yaml
 ```
@@ -49,7 +49,7 @@ Optional arguments:
 - `-clean`: Clean the PDB files by running `fix_numbering.pl` and `clean_data.py` before running DockQ
 
 ## Datasets
-The cleaned datasets used for this project can be accessed from the following links:
+The cleaned datasets used for this study can be accessed from the following links:
 
 - [AlphaFold-Multimer, Template-based Dataset(AFM-TB)](https://drive.google.com/file/d/1p2cHTfgjrTj1wHCPjcFqs-7zPzNysxZq/view?usp=drive_link)
 - [AlphaFold-Multimer, Template-free Dataset(AFM-TF)](https://drive.google.com/file/d/1ATmbF25mEcMMFyEGb02PRFv-aPLl8H63/view?usp=drive_link)
