@@ -7,7 +7,7 @@ This project focuses on evaluating three state-of-the-art tools—AlphaFold-Mult
 
 ## Preparing the Predicted Structures for the Evaluation Process
 
-### installation
+### Installation
 To preprocess the predicted structures, the environment below should be installed:
 ```commandline
 conda env create -f evaluation.yaml
