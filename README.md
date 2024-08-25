@@ -3,7 +3,7 @@
 ## Abstract
 This project focuses on evaluating three state-of-the-art tools—AlphaFold-Multimer, ColabFold, and AlphaFold3—for predicting protein-peptide complex structures using Template-Based (TB) and Template-Free (TF) methods. AlphaFold-Multimer excels in TB predictions, while AlphaFold3 produces superior protein-like structures. ColabFold shows versatility in both settings. The study also assesses various scoring functions, revealing that while AlphaFold's built-in scoring is the best, combining multiple scoring functions can enhance the accuracy of predictions. The findings highlight the potential for improving protein-peptide docking predictions by leveraging these tools and scoring strategies.
 
-![Fig_1](https://github.com/user-attachments/assets/d4c2abe9-952d-41fd-a384-9ba6a355e842)
+![Fig_1](https://github.com/user-attachments/assets/02b69ce0-9fb7-472b-b089-82456aaaa6f1)
 
 ## Preparing the Predicted Structures for the Evaluation Process
 
