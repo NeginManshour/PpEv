@@ -1,0 +1,17 @@
+{
+    "AlphaFold_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/AlphaFold_Multimer_All_TF",
+    "AlphaFold_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/AlphaFold_Multimer_All_TB",
+    "DockQ_Loss_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TB_Loss",
+    "DockQ_Loss_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Loss/TF_Loss",
+    "Spearman_Correlation_directory_TB": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TB_Spearman",
+    "Spearman_Correlation_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TF_Spearman",
+    "Main_Figures_directory": "/Users/neginmanshour/Desktop/PpEv/Figures/Main",
+    "Supp_Figures_directory": "/Users/neginmanshour/Desktop/PpEv/Figures/Supplementary",
+    "combined_directory": "/Users/neginmanshour/Desktop/PpEv/Analysis/Heatmaps_Spearman_Correlation/Data/combined_TB_TF_top20_md",
+    "common_outputs": "/Users/neginmanshour/Desktop/PpEv/Analysis/Heatmaps_Spearman_Correlation/Data/Output_TB_TF_venn",
+    "Loss_consensus_TB": "/Users/neginmanshour/Desktop/PpEv/Analysis/Loss_consensus/TB_Loss",
+    "Loss_consensus_TF": "/Users/neginmanshour/Desktop/PpEv/Analysis/Loss_consensus/TF_Loss",
+    "First_ranked_DockQ": "/Users/neginmanshour/Desktop/PpEv/Analysis/Supplemenrary/Data/first_ranked_dockq",
+    "First_ranked_MolProbity": "/Users/neginmanshour/Desktop/PpEv/Analysis/Supplemenrary/Data/first_ranked_molprobity",
+    "AF3_Data": "/Users/neginmanshour/Desktop/PpEv/Analysis/Supplemenrary/Data/AF3_Data"
+}
