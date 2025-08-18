@@ -6,6 +6,7 @@
     "Spearman_Correlation_directory_TF": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Spearman_Correlation/TF_Spearman",
     "ColabFold_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/ColabFold_All_TF",
     "AlphaFold3_directory": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/AlphaFold3_All",
+    "High_sampling": "/Users/neginmanshour/Desktop/PpEv/Quality_Scoring_Functions/Quality_Functions/DockQ/Data/high_sampling",
     "Main_Figures_directory": "/Users/neginmanshour/Desktop/PpEv/Figures/Main",
     "Supp_Figures_directory": "/Users/neginmanshour/Desktop/PpEv/Figures/Supplementary"
 }
